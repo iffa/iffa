@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, my name is Santeri 👋
+[![Twitter](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/iffa_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/santerielo/)
 
-<!--
-**iffa/iffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Santeri, a full stack engineer currently working at [CGI](https://www.cgi.com/en). When I'm not busy at work, I like to dabble in sim-racing, and I sometimes get crazy software development ideas. Check some of my projects out down below! 🌟
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/iffa">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iffa&hide=java,c#" />
+</a>
+
+<a href="https://github.com/iffa">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=iffa&show_icons=true&line_height=27&count_private=true" alt="Santeri's GitHub Stats" />
+</a>
