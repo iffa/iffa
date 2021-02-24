@@ -7,6 +7,6 @@ I'm Santeri, a full stack engineer currently working at [CGI](https://www.cgi.co
 <a href="https://github.com/iffa">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=iffa&show_icons=true&line_height=27&count_private=true&theme=synthwave&hide_border=true&custom_title=Santeri%27s%20activity%20in%20a%20nutshell" alt="Santeri's GitHub Stats" />
 </a>
-
-[![Repository card](https://github-readme-stats.vercel.app/api/pin/?username=iffa&repo=iffa.dev&theme=synthwave)](https://github.com/iffa/iffa.dev)
-[![Repository card](https://github-readme-stats.vercel.app/api/pin/?username=iffa&repo=ngx-material-spinner&theme=synthwave)](https://github.com/iffa/ngx-material-spinner)
+<br>
+[![Repository card](https://github-readme-stats.vercel.app/api/pin/?username=iffa&repo=iffa.dev&theme=synthwave&hide_border=true)](https://github.com/iffa/iffa.dev)
+[![Repository card](https://github-readme-stats.vercel.app/api/pin/?username=iffa&repo=ngx-material-spinner&theme=synthwave&hide_border=true)](https://github.com/iffa/ngx-material-spinner)
