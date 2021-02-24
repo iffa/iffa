@@ -4,11 +4,6 @@
 
 I'm Santeri, a full stack engineer currently working at [CGI](https://www.cgi.com/en). When I'm not busy at work, I like to dabble in sim-racing, and I sometimes get crazy software development ideas. Check some of my projects out down below! 🌟
 
-
 <a href="https://github.com/iffa">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iffa&hide=java,c#" />
-</a>
-
-<a href="https://github.com/iffa">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=iffa&show_icons=true&line_height=27&count_private=true" alt="Santeri's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=iffa&show_icons=true&line_height=27&count_private=true&theme=synthwave&hide_border=true&custom_title=Santeri%27s%20activity%20in%20a%20nutshell" alt="Santeri's GitHub Stats" />
 </a>
