@@ -6,6 +6,7 @@
 
 I'm a full stack developer currently working at TBA. I like to dabble in sim-racing, and I sometimes get crazy software development ideas. Check some of my projects out down below! 🌟
 
+[![akm.iffa.dev](https://github-readme-stats.vercel.app/api/pin/?username=iffa&repo=akm-next&theme=synthwave&hide_border=true)](https://github.com/iffa/akm-next)
 [![iffa.dev](https://github-readme-stats.vercel.app/api/pin/?username=iffa&repo=iffa.dev&theme=synthwave&hide_border=true)](https://github.com/iffa/iffa.dev)
 [![ngx-material-spinner](https://github-readme-stats.vercel.app/api/pin/?username=iffa&repo=ngx-material-spinner&theme=synthwave&hide_border=true)](https://github.com/iffa/ngx-material-spinner)
 [![citybike-turku-android](https://github-readme-stats.vercel.app/api/pin/?username=iffa&repo=citybike-turku-android&theme=synthwave&hide_border=true)](https://github.com/iffa/citybike-turku-android)
